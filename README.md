@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![Header](https://github.com/daimonti121/daimonti121/blob/main/assets/matrica-matrix-cimvoly-znaki.jpg)](https://github.com/daimonti121g)
 
 ## I'm a web-developer
@@ -17,6 +15,9 @@ Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexeyshpavda)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daimonti121?&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **daimonti121/daimonti121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
