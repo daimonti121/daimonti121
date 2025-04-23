@@ -11,12 +11,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 
-Follow Me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexeyshpavda)
+### Follow Me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daimonti121&show_icons=true)](https://github.com/daimonti121/github-readme-stats)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/damios_1812)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/damios_1812/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](www.linkedin.com/in/дмитрий-ющенко-7a1b1520a)
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daimonti121&show_icons=true)](https://github.com/daimonti121/github-readme-stats) -->
 
 
 <!--
