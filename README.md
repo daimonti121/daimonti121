@@ -10,9 +10,7 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=F8C52C)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F88C00)
 ![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite&logoColor=E5D3FF)
-![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=devtools&logoColor=E5D3FF)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass&logoColor=E5D3FF)
-![FlexBox](https://img.shields.io/badge/-FlexBox-090909?style=for-the-badge&logo=flexbox&logoColor=E5D3FF)
 
 ### Follow Me
 
