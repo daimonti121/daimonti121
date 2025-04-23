@@ -4,7 +4,9 @@
 
 ## I'm a web-developer
 
-Languages and Tools
+### Languages and Tools
+
+![Flutter](https://img.shields.io/badge/-Flutter-218a4b?style=for-the-badge&logo=appveyor)
 
 Follow Ee
 
