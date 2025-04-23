@@ -1,4 +1,4 @@
-[![Header](https://github.com/daimonti121/daimonti121/blob/main/assets/matrica-matrix-cimvoly-znaki.jpg)](https://github.com/daimonti121g)
+[![Header](https://github.com/daimonti121/daimonti121/blob/main/assets/b4e371619042d1e80918d09904e90f7d.gif?raw=true)](https://github.com/daimonti121)
 
 ## I'm a web-developer
 
