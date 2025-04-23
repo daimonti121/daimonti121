@@ -1,4 +1,4 @@
-[![Header](https://github.com/daimonti121/daimonti121/blob/main/assets/b4e371619042d1e80918d09904e90f7d.gif?raw=true)](https://github.com/daimonti121)
+[![Header](https://github.com/daimonti121/daimonti121/blob/main/assets/b4e371619042d1e80918d09904e90f7d.gif)](https://github.com/daimonti121)
 
 ## I'm a web-developer
 
@@ -15,7 +15,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/damios_1812)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/damios_1812/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](www.linkedin.com/in/дмитрий-ющенко-7a1b1520a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/дмитрий-ющенко-7a1b1520a)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daimonti121&show_icons=true)](https://github.com/daimonti121/github-readme-stats) -->
 
