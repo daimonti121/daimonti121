@@ -12,6 +12,8 @@
 ![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite&logoColor=E5D3FF)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass&logoColor=E5D3FF)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=E5D3FF)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=E5D3FF)
+
 
 ### Follow Me
 
