@@ -1,8 +1,8 @@
 [![Header](https://github.com/daimonti121/daimonti121/blob/main/assets/b4e371619042d1e80918d09904e90f7d.gif)](https://github.com/daimonti121)
 
-## I'm a web-developer
+## Hello World!, I'm Dima, a Ukrainan Front end Develeper 👋 
 
-### Languages and Tools
+### 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5&logoColor=47C5FB)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS&logoColor=097CDB)
@@ -11,6 +11,7 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F88C00)
 ![Vite](https://img.shields.io/badge/-Vite-090909?style=for-the-badge&logo=vite&logoColor=E5D3FF)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass&logoColor=E5D3FF)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=E5D3FF)
 
 ### Follow Me
 
