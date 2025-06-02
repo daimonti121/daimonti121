@@ -17,13 +17,14 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack&logoColor=E5D3FF)
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=gulp&logoColor=E5D3FF)
 ![Jquery](https://img.shields.io/badge/-Jquery-090909?style=for-the-badge&logo=jquery&logoColor=E5D3FF)
+![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=wordpress&logoColor=5d96ff)
 
 
 ### Follow Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/damios_1812)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/damios_1812/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=B4068E)](https://www.linkedin.com/in/дмитрий-ющенко-7a1b1520a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=B4068E)](https://www.linkedin.com/in/дмитрий-ющенко-7a1b1520a)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daimonti121&show_icons=true)](https://github.com/daimonti121/github-readme-stats) -->
 
