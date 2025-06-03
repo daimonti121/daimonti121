@@ -1,4 +1,4 @@
-[![Header](https://github.com/daimonti121/daimonti121/blob/main/assets/well_matrix.gif?raw=true)](https://github.com/daimonti121)
+[![Header](https://github.com/daimonti121/daimonti121/blob/main/assets/six_matrix.gif?raw=true)](https://github.com/daimonti121)
 
 ## Hello World!, I'm Dima, a Frontend Developer 👋 
 
